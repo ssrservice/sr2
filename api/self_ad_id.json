@@ -1,0 +1,14 @@
+{
+	"status":0,
+
+	 "ad_2018_id_check": {
+	 		"pkg":"com.androidapp.tool.videodownloaderforinstagram",
+     		"title":"video downloader for instagram",
+     		"desc":"Unduh instagram dan tumblr video",
+     		"img":"https://ssrservice.github.io/ssrservice/image/instagram_video_downloader_icon.jpg",
+     		"action_desc":"Unduh",
+     		"channel":"",
+     		"errmsg":""
+ 		}
+ 	  
+}

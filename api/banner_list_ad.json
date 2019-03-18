@@ -1,0 +1,30 @@
+{
+	"status":0,
+	"data":[
+		  {
+	    "pkg":"net.easyvpn.vpn",
+		 "icon":"https://ssrservice.github.io/ssrservice/image/easy_vpn.png",
+		 "title":"EASY VPN",
+		 "subtitle":"Easy VPN-Master Proksi VPN Gratis dan Tanpa Batas;"
+	  },
+	  {
+	    "pkg":"com.androidapp.tool.videodownloaderforinstagram",
+		 "icon":"https://ssrservice.github.io/ssrservice/image/insdownloader_logo.png",
+		 "title":"Pengunduh video Instagram",
+		 "subtitle":"Unduh video Instagram secara gratis;"
+	  },
+       {
+           "pkg":"info.hitungpajak",
+            "icon":"https://ssrservice.github.io/ssrservice/image/info.hitungpajak.png",
+            "title":"Hitung Pajak",
+            "subtitle":"Hitung jumlah pajak bulanan Anda;"
+        },
+		{
+           "pkg":"info.onkircek",
+            "icon":"https://ssrservice.github.io/ssrservice/image/info.onkircek.png",
+            "title":"Cek Resi",
+            "subtitle":"Anda dapat memeriksa jumlah hampir semua perusahaan kurir;"
+         }
+	],
+	"error_code":0
+}
