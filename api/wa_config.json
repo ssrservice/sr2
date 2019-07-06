@@ -1,5 +1,5 @@
 {
-  "app_version":2
+  "app_version":2,
   "night_delay":{
        "S7001":[120,180],
        "S7002":[120,180],
