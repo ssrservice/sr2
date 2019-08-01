@@ -1,5 +1,5 @@
 {
-  "app_version":5,
+  "app_version":6,
   "free_task_delayed":60,
   "night_delay":{
        "S7001":[120,180],
