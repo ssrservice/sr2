@@ -1,5 +1,8 @@
 {
   "app_version":7,
   "free_task_delayed":60,
-  "night_task_delayed":40
+  "night_task_delayed":40,
+  "night_delay":{
+     "S8001":[45,60]
+  }
 }
